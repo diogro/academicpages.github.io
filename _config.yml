@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diogo Melo / Site Title"
+title                    : "Diogo Melo"
 title_separator          : "-"
 name                     : &name "Diogo Melo"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "São Paulo"
-  employer         : "University of São Paulo Graduate Program"
+  employer         : "University of São Paulo"
   googlescholar    : "https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en"
   email            : "diogro@gmail.com"
   uri              :
